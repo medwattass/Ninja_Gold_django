@@ -1,0 +1,16 @@
+.col {
+    background-color: rgb(41, 40, 42);
+    margin: 1rem;
+}
+
+.orange {
+    background-color: rgb(221, 187, 16);
+    color: rgb(41, 40, 42);
+    border: 1px solid black;
+}
+
+h3,
+p,
+h5 {
+    color: rgb(221, 187, 16);
+}
